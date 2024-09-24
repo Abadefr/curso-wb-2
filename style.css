@@ -7,7 +7,9 @@ body{
     height: 200px;
     background-color: red;
 padding: 20px 15px 10px 5px;
+margin: 20px 15px 10px 5px;
 border: 5px solid black;
+display: inline-block; /*none, block, inline-block*/
 }
 
 .p-box{
