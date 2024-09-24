@@ -1,5 +1,16 @@
+body{
+    margin: 0px;
+}
+
 .boxmodel {
     width: 200px;
     height: 200px;
     background-color: red;
+padding: 20px 15px 10px 5px;
+border: 5px solid black;
+}
+
+.p-box{
+    color: white;
+    margin: 0px;
 }
